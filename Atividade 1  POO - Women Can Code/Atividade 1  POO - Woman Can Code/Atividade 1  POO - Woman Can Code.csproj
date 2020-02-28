@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <RootNamespace>Atividade_1__POO___Woman_Can_Code</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\woman\Desktop\Orientacao a objetos\Atividade 1 - POO - WCC.cs" Link="Atividade 1 - POO - WCC.cs" />
+  </ItemGroup>
+
+</Project>

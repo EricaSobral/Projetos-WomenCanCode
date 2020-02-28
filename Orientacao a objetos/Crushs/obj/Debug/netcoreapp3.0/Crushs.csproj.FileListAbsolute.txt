@@ -1,0 +1,16 @@
+C:\Users\woman\Desktop\Crushs\bin\Debug\netcoreapp3.0\Crushs.exe
+C:\Users\woman\Desktop\Crushs\bin\Debug\netcoreapp3.0\Crushs.deps.json
+C:\Users\woman\Desktop\Crushs\bin\Debug\netcoreapp3.0\Crushs.runtimeconfig.json
+C:\Users\woman\Desktop\Crushs\bin\Debug\netcoreapp3.0\Crushs.runtimeconfig.dev.json
+C:\Users\woman\Desktop\Crushs\bin\Debug\netcoreapp3.0\Crushs.dll
+C:\Users\woman\Desktop\Crushs\bin\Debug\netcoreapp3.0\Crushs.pdb
+C:\Users\woman\Desktop\Crushs\obj\Debug\netcoreapp3.0\Crushs.csprojAssemblyReference.cache
+C:\Users\woman\Desktop\Crushs\obj\Debug\netcoreapp3.0\Crushs.AssemblyInfoInputs.cache
+C:\Users\woman\Desktop\Crushs\obj\Debug\netcoreapp3.0\Crushs.AssemblyInfo.cs
+C:\Users\woman\Desktop\Crushs\obj\Debug\netcoreapp3.0\Crushs.dll
+C:\Users\woman\Desktop\Crushs\obj\Debug\netcoreapp3.0\Crushs.pdb
+C:\Users\woman\Desktop\Orientacao a objetos\Crushs\obj\Debug\netcoreapp3.0\Crushs.csprojAssemblyReference.cache
+C:\Users\woman\Desktop\Orientacao a objetos\Crushs\obj\Debug\netcoreapp3.0\Crushs.AssemblyInfoInputs.cache
+C:\Users\woman\Desktop\Orientacao a objetos\Crushs\obj\Debug\netcoreapp3.0\Crushs.AssemblyInfo.cs
+C:\Users\woman\Desktop\Orientacao a objetos\Crushs\obj\Debug\netcoreapp3.0\Crushs.dll
+C:\Users\woman\Desktop\Orientacao a objetos\Crushs\obj\Debug\netcoreapp3.0\Crushs.pdb

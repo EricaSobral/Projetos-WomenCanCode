@@ -1,0 +1,19 @@
+﻿@model List<Flor>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Flores</h1>
+<a href="/Flores/Criar"> Adicionar flor</a>
+
+
+@foreach (var item in Model)
+{
+    <h4>@item.Especie - @item.Cor</h4>
+    <p><strong>@item.Preco</strong>@item.Descricao</p>
+    <a class="btn btn-primary"  href="/Flores/Detalhes/@item.Id" role="button'"> Detalhes flor</a>
+
+ 
+}
+
+

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOClasse", "OOClasse\OOClasse.csproj", "{2F5B0202-E958-414F-95E5-65E0AEEBC7A3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Crushs", "..\Crushs\Crushs.csproj", "{E71063C3-16A1-4C93-A1B3-ADFD3BC6C51E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F5B0202-E958-414F-95E5-65E0AEEBC7A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F5B0202-E958-414F-95E5-65E0AEEBC7A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F5B0202-E958-414F-95E5-65E0AEEBC7A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F5B0202-E958-414F-95E5-65E0AEEBC7A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E71063C3-16A1-4C93-A1B3-ADFD3BC6C51E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E71063C3-16A1-4C93-A1B3-ADFD3BC6C51E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E71063C3-16A1-4C93-A1B3-ADFD3BC6C51E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E71063C3-16A1-4C93-A1B3-ADFD3BC6C51E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FD24E52-6CB1-49F6-9AA3-AB67349E6520}
+	EndGlobalSection
+EndGlobal

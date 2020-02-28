@@ -1,0 +1,11 @@
+C:\Users\woman\source\repos\Atividade 1  POO - Woman Can Code\Atividade 1  POO - Woman Can Code\obj\Debug\netcoreapp3.0\Atividade 1  POO - Woman Can Code.csprojAssemblyReference.cache
+C:\Users\woman\source\repos\Atividade 1  POO - Woman Can Code\Atividade 1  POO - Woman Can Code\obj\Debug\netcoreapp3.0\Atividade 1  POO - Woman Can Code.AssemblyInfoInputs.cache
+C:\Users\woman\source\repos\Atividade 1  POO - Woman Can Code\Atividade 1  POO - Woman Can Code\obj\Debug\netcoreapp3.0\Atividade 1  POO - Woman Can Code.AssemblyInfo.cs
+C:\Users\woman\source\repos\Atividade 1  POO - Woman Can Code\Atividade 1  POO - Woman Can Code\bin\Debug\netcoreapp3.0\Atividade 1  POO - Woman Can Code.exe
+C:\Users\woman\source\repos\Atividade 1  POO - Woman Can Code\Atividade 1  POO - Woman Can Code\bin\Debug\netcoreapp3.0\Atividade 1  POO - Woman Can Code.deps.json
+C:\Users\woman\source\repos\Atividade 1  POO - Woman Can Code\Atividade 1  POO - Woman Can Code\bin\Debug\netcoreapp3.0\Atividade 1  POO - Woman Can Code.runtimeconfig.json
+C:\Users\woman\source\repos\Atividade 1  POO - Woman Can Code\Atividade 1  POO - Woman Can Code\bin\Debug\netcoreapp3.0\Atividade 1  POO - Woman Can Code.runtimeconfig.dev.json
+C:\Users\woman\source\repos\Atividade 1  POO - Woman Can Code\Atividade 1  POO - Woman Can Code\bin\Debug\netcoreapp3.0\Atividade 1  POO - Woman Can Code.dll
+C:\Users\woman\source\repos\Atividade 1  POO - Woman Can Code\Atividade 1  POO - Woman Can Code\bin\Debug\netcoreapp3.0\Atividade 1  POO - Woman Can Code.pdb
+C:\Users\woman\source\repos\Atividade 1  POO - Woman Can Code\Atividade 1  POO - Woman Can Code\obj\Debug\netcoreapp3.0\Atividade 1  POO - Woman Can Code.dll
+C:\Users\woman\source\repos\Atividade 1  POO - Woman Can Code\Atividade 1  POO - Woman Can Code\obj\Debug\netcoreapp3.0\Atividade 1  POO - Woman Can Code.pdb

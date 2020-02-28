@@ -1,0 +1,29 @@
+﻿
+@model Flor;
+@{
+    ViewData["Title"] = "Criar";
+}
+
+<h1>Criar</h1>
+<form method="post" asp-action="Criar">
+
+    Eapécie
+    <input asp-for="Especie" /><br />
+
+    Descrição
+    <input asp-for="Descricao" /><br />
+
+    Cor
+    <input asp-for="Cor" /><br />
+
+    Preço
+    <input asp-for="Preco" /> <br />
+
+
+    <button class="btn btn-sucess" type="submit">
+       <i class="fas fa-spa"></i>
+        Criar flor
+    </button>
+
+</form>
+
